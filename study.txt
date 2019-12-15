@@ -1,0 +1,13 @@
+
+[1] web3 login
+https://developer.uport.me/connect/login
+
+Web3 Login Example
+- Create Authentication
+
+Send Verification
+- Create and Send a Verification
+
+Request Verification
+- Request Verification
+
