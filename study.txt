@@ -11,3 +11,10 @@ Send Verification
 Request Verification
 - Request Verification
 
+
+[2] credentials
+
+https://developer.uport.me/credentials/login
+https://developer.uport.me/uport-credentials/reference/index#credentials
+
+
